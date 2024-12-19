@@ -1,4 +1,3 @@
-# portafolios-carrera
 # Proyectos
 
 ## Proyecto 1: MongoDB y Riak con Python
