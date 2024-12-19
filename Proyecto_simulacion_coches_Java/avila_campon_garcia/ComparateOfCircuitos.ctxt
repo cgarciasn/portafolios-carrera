@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparateOfCircuitos
+comment1.params=cir1\ cir2
+comment1.target=int\ compare(Circuito,\ Circuito)
+comment1.text=\r\n\ M\u00E9todo\ comparar\ de\ la\ clase\ abstracta\ CompararCircuitos\ para\ comparar\ dos\ circuitos\r\n\r\n\ @param\ cir1,\ primer\ circuito\ a\ comparar\r\n\ @param\ cir2,\ segundo\ circuito\ a\ comparar\r\n\ @return\r\n
+numComments=2

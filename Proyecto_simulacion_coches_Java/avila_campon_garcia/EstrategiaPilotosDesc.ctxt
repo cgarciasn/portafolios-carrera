@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EstrategiaPilotosDesc
+comment1.params=listapilotos
+comment1.target=void\ EjecutarEstrategia(java.util.LinkedList)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ ejecutar\ la\ estrategia\ de\ ordenaci\u00F3n\ de\ Pilotos\ de\ manera\ descendente\r\n\r\n\ @param\ listapilotos,\ lista\ de\ pilotos\ que\ se\ quiere\ ordenar\r\n
+numComments=2

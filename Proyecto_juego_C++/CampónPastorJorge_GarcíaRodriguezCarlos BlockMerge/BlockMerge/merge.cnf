@@ -1,0 +1,17 @@
+4
+8
+0
+2 4 1 1  
+4 2 2 2  
+4 3 2 4  
+6 2 7 2   
+
+
+
+1ª línea: tamaño del tablero
+2ª línea: objetivo para finalizar el juego
+3ª línea: 0 si el tablero se lee desde fichero > 0 si se genera aleatoriamente el tablero
+4ª línea y siguientes: valores del tablero (se usan si la 3ª línea es 0)
+
+
+

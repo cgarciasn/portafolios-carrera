@@ -1,0 +1,366 @@
+#facebook {
+    background-image: url('Resources/facebookLogo.png');
+    border-radius: 5px;
+    border-color: white;
+    height: 50px;
+    text-align: center;
+    width: 50px;
+}
+
+a{
+	color: #FFA836;
+}
+
+#google {
+    background-image: url('Resources/gmailLogo.png');
+    border-radius: 5px;
+    border-color: white;
+    height: 50px;
+    text-align: center;
+    width: 50px;
+}
+
+div.searchWidget {
+    display: flex;
+    padding: 10px; 
+}
+
+.fragments{
+	border: 2px;
+	border-style: solid; 
+	border-color: #FFA836;
+}
+
+
+img.logo{
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-image: url('Resources/background.jpg');
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+    color: #fff;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#forgetpass{
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+}
+
+h3 {
+    font-size: small;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: oblique;
+    color: white;
+}
+
+h3.restaurantnames{
+    margin-left: 15px;
+    margin-top: 35px;
+}
+
+h1 {
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+}
+
+#mail{
+    border-radius: 5px;
+}
+
+#password{
+    border-radius: 5px;
+}
+
+#name{
+    border-radius: 5px;
+}
+
+#surname{
+    border-radius: 5px;
+
+}
+
+#street{
+    border-radius: 5px;
+}
+form {
+    color: white;   
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+fieldset{
+    display: inline-block;
+    border-color: #FFA836;
+    margin-top:  30px;
+    margin: auto;
+}
+
+
+
+#signin {
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #FFA836;
+  border: 1px solid transparent;
+  border-radius: .50rem;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 2.5rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+input[type=submit] {
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #FFA836;
+  border: 1px solid transparent;
+  border-radius: .50rem;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 2.5rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+input[type=button] {
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #FFA836;
+  border: 1px solid transparent;
+  border-radius: .50rem;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 2.5rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+button{
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #FFA836;
+  border: 1px solid transparent;
+  border-radius: .50rem;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 2.5rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+
+#createacc{
+    align-items: center;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    margin-top: 15px;
+    background-clip: padding-box;
+    background-color: #FFA836;
+    color: #fff;
+    cursor: pointer;
+    border-radius: .50rem;
+    line-height: 1.25;
+    position: relative;
+}
+
+#search{
+    align-items: center;
+    display: inline;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    margin-top: 15px;
+    background-clip: padding-box;
+    background-color: #FFA836;
+    color: #fff;
+    cursor: pointer;
+    border-radius: .50rem;
+    line-height: 1.25;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+ul li{
+    display: inline;
+    margin-left: 5px;
+}
+
+ul.foodTypes{
+    display: flex;
+}
+
+ul.foodTypes button{
+    border-radius: 7px;
+    color: #fff;
+    width: 70px;
+    height: 70px;
+}
+
+div.infoBurger{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+div.infoFiveguys{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+div.infoGoiko{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+div.infoMcdonald{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+
+div.pricerange{
+    display: flex;
+}
+
+div.pricerange h4.minrange{
+    flex: 1;
+}
+
+div.pricerange h4.maxrange{
+    flex: 2;
+}
+
+
+
+#searchorange{
+    background-image: url('Resources/search.png');
+    width: 27px;
+    height: 27px;
+}
+
+#restaurantesearch{
+    border-radius: 5px;
+}
+
+
+#american{
+    background-image: url('Resources/american.jpg');
+}
+
+#argentina{
+    background-image: url('Resources/argentina.jpg');
+}
+
+#spanish{
+    background-image: url('Resources/spanish.jpg');
+}
+
+#italian{
+    background-image: url('Resources/italian.jpg');
+}
+
+#chinese{
+    background-image: url('Resources/chinese.jpg');
+}
+
+#pizza{
+    background-image: url('Resources/pizza.jpg');
+}
+
+#burger{
+    background-image: url('Resources/burger.jpg');
+}
+
+#fries{
+    background-image: url('Resources/fries.jpg');
+}
+#sandwich{
+    background-image: url('Resources/sandwich.jpg');
+}
+
+#wraps{
+    background-image: url('Resources/wraps.jpg');
+}
+
+ul.burgerTypes button{
+    font-size: 14px;
+    padding: 8px;
+    background-color: #FFA836;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+}
+
+#DishDetails{
+	list-style: none; 
+  	margin: 0; 
+ 	padding: 0;
+}
+
+#DishDetails li{
+	margin-bottom: 10px;
+}

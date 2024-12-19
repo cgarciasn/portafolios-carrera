@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Puntuacion
+comment1.params=tiempo\ puntos
+comment1.target=Puntuacion(java.lang.Double,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Puntuaci\u00F3n\ de\ tipo\ enum\ que\ inicializa\ sus\ atributos\ tiempo(Double)\ y\ puntos(Double)\r\n\r\n\ @param\ tiempo,\ tiempo\ que\ ha\ hecho\ en\ la\ carrera\r\n\ @param\ puntos,\ puntos\ que\ ha\ obtenido\ en\ la\ carrera\r\n
+comment2.params=
+comment2.target=double\ getTiempo()
+comment2.text=\r\n\ Devuelve\ el\ tiempo\ que\ ha\ hecho\ en\ la\ carrera\r\n\r\n\ @return\ tiempo\r\n
+comment3.params=tiempo
+comment3.target=void\ setTiempo(double)
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ poner\ el\ tiempo\ pasado\ por\ par\u00E1metros\ en\ el\ atributo\ tiempo\r\n\r\n\ @param\ tiempo,\ tiempo\ que\ ha\ hecho\ en\ la\ carrera\r\n
+comment4.params=
+comment4.target=double\ getPuntos()
+comment4.text=\r\n\ Devuelve\ los\ puntos\ que\ ha\ obtenido\ en\ la\ carrera\r\n\r\n\ @return\ puntos\r\n
+comment5.params=puntos
+comment5.target=void\ setPuntos(double)
+comment5.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ poner\ los\ puntos\ pasados\ por\ par\u00E1metros\ en\ el\ atributo\ puntos\r\n\r\n\ @param\ puntos\r\n
+numComments=6

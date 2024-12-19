@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ICircuito
+comment0.text=\r\n\ Interfaz\ de\ la\ clase\ \ Circuito\r\n
+comment1.params=
+comment1.target=java.lang.Double\ getComplejidadActual()
+comment2.params=
+comment2.target=java.lang.Double\ getDistanciaActual()
+comment3.params=
+comment3.target=java.lang.String\ ComplicacionExtra()
+numComments=4

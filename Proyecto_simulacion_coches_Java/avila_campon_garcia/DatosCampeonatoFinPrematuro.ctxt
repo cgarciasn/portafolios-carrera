@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DatosCampeonatoFinPrematuro
+comment0.text=\r\n\ Clase\ que\ inicializa\ la\ simulaci\u00F3n\ con\ datos\ con\ los\ que\r\n\ el\ campeonato\ termina\ de\ forma\ normal\r\n\r\n\ @author\ profesores\ DP\r\n\ @version\ 20/21\r\n
+comment1.params=
+comment1.target=DatosCampeonatoFinPrematuro()
+comment2.params=
+comment2.target=void\ initData()
+numComments=3

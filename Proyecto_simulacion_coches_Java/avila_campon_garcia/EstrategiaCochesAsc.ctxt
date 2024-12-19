@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EstrategiaCochesAsc
+comment1.params=listacoches
+comment1.target=void\ EjecutarEstrategia(java.util.LinkedList)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ ejecutar\ la\ estrategia\ de\ ordenaci\u00F3n\ de\ Coches\ de\ manera\ ascendente\r\n\r\n\ @param\ listacoches,\ lista\ de\ coches\ que\ se\ quiere\ ordenar\r\n
+numComments=2

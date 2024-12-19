@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparateDistanciaDesc
+comment1.params=cir1\ cir2
+comment1.target=int\ compare(Circuito,\ Circuito)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ realizar\ el\ comparador\ de\ dos\ circuitos\ por\ la\ distancia,\ en\ caso\ de\ que\ tengan\ la\ misma\r\n\ distancia,\ se\ comparar\u00E1\ por\ los\ nombres\ alfabeticamente\r\n\r\n\ @param\ cir1,\ primer\ circuito\ {@code\ circuito}\ a\ comparar\r\n\ @param\ cir2,\ segundo\ circuito\ {@code\ circuito}\ a\ comparar\r\n\ @return\ el\ valor\ {@code\ 0}\ si\ {@code\ cir1\ \=\=\ cir2}\ En\ este\ caso\ se\ comparar\u00EDa\ por\ los\ nombres\ alfabeticamente\r\n\ \ \ \ \ \ \ \ \ el\ valor\ mayor\ a\ {@code\ 0}\ si\ {@code\ cir1>cir2}\r\n\ \ \ \ \ \ \ \ \ el\ valor\ menor\ a\ {@code\ 0}\ si\ {@code\ cir1<cir2}\r\n
+numComments=2

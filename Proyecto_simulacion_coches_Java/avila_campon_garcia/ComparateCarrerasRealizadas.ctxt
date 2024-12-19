@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparateCarrerasRealizadas
+comment1.params=p1\ p2
+comment1.target=int\ compare(Piloto,\ Piloto)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ realizar\ el\ comparador\ de\ dos\ pilotos\ por\ el\ n\u00FAmero\ de\ carreras\ realizadas\r\n\ en\ caso\ de\ que\ hayan\ realizado\ el\ mismo\ n\u00FAmero\ de\ tareas,\ se\ comparar\u00E1\ por\ los\ nombres\ alfabeticamente\r\n\r\n\ @param\ p1,\ primer\ piloto\ {@code\ piloto}\ a\ comparar\r\n\ @param\ p2,\ segundo\ piloto\ {@code\ piloto}\ a\ comparar\r\n\ @return\ el\ valor\ {@code\ 0}\ si\ {@code\ p1\ \=\=\ p2}\ En\ este\ caso\ se\ comparar\u00EDa\ por\ los\ nombres\ alfabeticamente\r\n\ \ \ \ \ \ \ \ \ el\ valor\ mayor\ a\ {@code\ 0}\ si\ {@code\ p1>p2}\r\n\ \ \ \ \ \ \ \ \ el\ valor\ menor\ a\ {@code\ 0}\ si\ {@code\ p1<p2}\r\n
+numComments=2

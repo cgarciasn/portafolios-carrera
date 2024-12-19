@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CircuitoExtra
+comment1.params=cir
+comment1.target=CircuitoExtra(Circuito)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ circuitoExtra\ que\ extiende\ de\ la\ clase\ Circuito,\ se\ encarga\ de\ llamar\ al\ constructor\ de\ la\ clase\ Circuito\r\n\ e\ inicializar\ el\ decorator.\r\n\r\n\ @param\ cir,\ se\ trata\ del\ circuito\ que\ queremos\ a\u00F1adirle\ la\ complejidad\ y\ la\ distancia\ extra\r\n
+comment2.params=
+comment2.target=java.lang.Double\ getComplejidadActual()
+comment2.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ complejidad\ actual\ del\ circuito\ una\ vez\ se\ le\ ha\ modificado\ la\ complejidad\r\n\r\n\ @return\ la\ complejidad\ nueva\ del\ circuito\r\n
+comment3.params=
+comment3.target=java.lang.Double\ getDistanciaActual()
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ distancia\ actual\ del\ circuito\ una\ vez\ se\ le\ ha\ modificado\ la\ distancia\r\n\r\n\ @return\ la\ distancia\ nueva\ del\ circuito\r\n
+comment4.params=
+comment4.target=java.lang.String\ ComplicacionExtra()
+comment4.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ complicacion\ extra\ del\ circuito\ una\ vez\ se\ le\ han\ hecho\ todas\ las\ modificaciones\r\n\r\n\ @return\ la\ complicacion\ nueva\ del\ circuito\r\n
+numComments=5

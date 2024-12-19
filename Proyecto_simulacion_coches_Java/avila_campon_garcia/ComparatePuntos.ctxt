@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparatePuntos
+comment1.params=p1\ p2
+comment1.target=int\ compare(Piloto,\ Piloto)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ realizar\ el\ comparador\ de\ dos\ pilotos\ por\ el\ n\u00FAmero\ de\ puntos\ de\ los\ pilotos,\ en\ caso\ de\ que\ tengan\r\n\ los\ mismos\ puntos,\ se\ comparar\u00E1\ por\ la\ destreza\ de\ los\ pilotos\ y\ si\ tienen\ tambi\u00E9n\ la\ misma\ destreza,\ se\ comparar\u00E1\ por\r\n\ los\ nombres\ alfabeticamente\r\n\r\n\ @param\ p1,\ primer\ piloto\ {@code\ piloto}\ a\ comparar\r\n\ @param\ p2,\ segundo\ piloto\ {@code\ piloto}\ a\ comparar\r\n\ @return\ el\ valor\ {@code\ 0}\ si\ {@code\ p1\ \=\=\ p2}\ En\ este\ caso\ se\ comparar\u00EDa\ por\ la\ destreza\ de\ los\ pilotos\ y\ en\ caso\ de\r\n\ ser\ igual\ tambi\u00E9n\ se\ comparar\u00EDa\ por\ los\ nombres\ alfabeticamente\r\n\ \ \ \ \ \ \ \ \ el\ valor\ mayor\ a\ {@code\ 0}\ si\ {@code\ p1>p2}\r\n\ \ \ \ \ \ \ \ \ el\ valor\ menor\ a\ {@code\ 0}\ si\ {@code\ p1<p2}\r\n
+numComments=2

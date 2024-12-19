@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparateVelocidad
+comment1.params=c1\ c2
+comment1.target=int\ compare(Coche,\ Coche)
+comment1.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ realizar\ el\ comparador\ de\ dos\ coche\ por\ la\ velocidad,\ en\ caso\ de\ que\ tengan\ la\ misma\ velocidad\r\n\ se\ comparar\u00E1\ por\ el\ combustible\ de\ los\ coches.\r\n\r\n\ @param\ c1,\ primer\ coche\ {@code\ coche}\ a\ comparar\r\n\ @param\ c2,\ segundo\ piloto\ {@code\ coche}\ a\ comparar\r\n\ @return\ el\ valor\ {@code\ 0}\ si\ {@code\ c1\ \=\=\ c2}\ En\ este\ caso\ se\ comparar\u00EDa\ por\ la\ cantidad\ de\ combustible\r\n\ \ \ \ \ \ \ \ \ el\ valor\ mayor\ a\ {@code\ 0}\ si\ {@code\ c1>c2}\r\n\ \ \ \ \ \ \ \ \ el\ valor\ menor\ a\ {@code\ 0}\ si\ {@code\ c1<c2}\r\n
+numComments=2

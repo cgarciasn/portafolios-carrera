@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nocturno
+comment1.params=cir
+comment1.target=Nocturno(Circuito)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ MNOCTURNO\ que\ extiende\ de\ la\ clase\ CircuitoExtra\r\n\r\n\ @param\ cir,\ circuito\ al\ que\ se\ le\ quiere\ a\u00F1adir\ la\ complicaci\u00F3nExtra\ "NOCTURNO"\r\n
+comment2.params=
+comment2.target=java.lang.Double\ getComplejidadActual()
+comment2.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ complejidad\ actual\ del\ circuito\ una\ vez\ se\ le\ ha\ modificado\ la\ complejidad\r\n\ de\ la\ complicaci\u00F3n\ "NOCTURNO"\r\n\r\n\ @return\ la\ complejidad\ nueva\ del\ circuito\r\n
+comment3.params=
+comment3.target=java.lang.Double\ getDistanciaActual()
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ distancia\ actual\ del\ circuito\ una\ vez\ se\ le\ ha\ modificado\ la\ distancia\r\n\ de\ la\ complicaci\u00F3n\ "NOCTURNO"\r\n\r\n\ @return\ la\ distancia\ nueva\ del\ circuito\r\n
+comment4.params=
+comment4.target=java.lang.String\ ComplicacionExtra()
+comment4.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ devolver\ la\ complicacion\ extra\ del\ circuito\ una\ vez\ se\ le\ han\ hecho\ todas\ las\ modificaciones\r\n\ de\ la\ complicaci\u00F3n\ "NOCTURNO"\r\n\r\n\ @return\ la\ complicaci\u00F3n\ nueva\ del\ circuito\r\n
+numComments=5

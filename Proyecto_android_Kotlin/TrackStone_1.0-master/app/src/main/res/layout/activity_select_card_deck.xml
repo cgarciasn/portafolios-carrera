@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Croot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BrowseCardsActivity"
+    android:orientation="vertical"
+    android:background="@color/purpleCute">
+
+    <Button
+        android:id="@+id/buttonFinishDeck"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_alignBottom="@+id/frameLayoutRecyclerViewCards"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="75dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/rounded_button"
+        android:minHeight="48dp"
+        android:text="@string/FinishDeck"
+        android:textColor="@color/purpleCute" />
+
+    <Button
+        android:id="@+id/buttonCreateDeck"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/rounded_button"
+        android:minHeight="48dp"
+        android:text="@string/addCardsToDeck"
+        android:textColor="@color/purpleCute" />
+
+    <LinearLayout
+        android:id="@+id/frameLayoutRecyclerViewCards"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purpleCute"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/svCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contCards"
+            android:layout_alignBottom="@id/svCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewCards"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>

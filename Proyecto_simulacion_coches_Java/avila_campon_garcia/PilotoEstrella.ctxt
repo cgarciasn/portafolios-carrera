@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PilotoEstrella
+comment1.params=nombre\ concentracion\ escuderia
+comment1.target=PilotoEstrella(java.lang.String,\ Concentracion,\ Escuderia)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ PilotoEstrella\ que\ extiende\ de\ la\ clase\ Piloto,\ se\ encarga\ de\ llamar\ al\ constructor\ de\ la\ clase\ Piloto\r\n\r\n\ @param\ nombre,\ nombre\ del\ pilotoEstrella\r\n\ @param\ concentracion,\ concentraci\u00F3n\ del\ pilotoEstrella\r\n\ @param\ escuderia,\ escuderia\ a\ la\ que\ pertenece\ el\ pilotoEstrella\r\n
+comment2.params=
+comment2.target=java.lang.Double\ getDestreza()
+comment2.text=\r\n\ Este\ m\u00E9todo\ devuelve\ la\ destreza\ del\ pilotoEstrella\r\n\r\n\ @return\ destreza\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Este\ m\u00E9todo\ es\ el\ m\u00E9todo\ mostrar\ de\ la\ clase\ PilotoEstrella\ que\ saca\ por\ pantalla\ toda\ la\ informaci\u00F3n\ del\ pilotoEstrella\r\n\r\n\ @return\ devuelve\ un\ string\ con\ toda\ la\ informaci\u00F3n\ del\ pilotoEstrella\r\n
+numComments=4

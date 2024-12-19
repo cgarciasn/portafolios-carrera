@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EstrategiasPilotos
+comment0.text=\r\n\ Interfaz\ de\ la\ clase\ EstrategiasPilotos\r\n
+comment1.params=pilotos
+comment1.target=void\ EjecutarEstrategia(java.util.LinkedList)
+numComments=2

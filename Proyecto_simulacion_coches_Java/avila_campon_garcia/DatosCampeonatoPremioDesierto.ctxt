@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DatosCampeonatoPremioDesierto
+comment1.params=
+comment1.target=DatosCampeonatoPremioDesierto()
+comment1.text=\r\n\ Clase\ que\ inicializa\ la\ simulaci\u00F3n\ con\ datos\ con\ los\ que\r\n\ el\ campeonato\ termina\ antes\ por\ estar\ todos\ los\ pilotos\ descalificados\r\n\r\n\ @author\ profesores\ DP\r\n\ @version\ 20/21\r\n
+comment2.params=
+comment2.target=void\ initData()
+numComments=3

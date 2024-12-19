@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrackStone 1.0</string>
+    <string name="logo_description">Logotype application TrackStone</string>
+    <string name="class_description">image of a class</string>
+    <string name="hero_description">image of a hero</string>
+    <string name="cardBack_description">image of a cardback</string>
+    <string name="testInfo">Test Information</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="addFavorite">Add to favorites</string>
+    <string name="deleteFavorite">Delete from favorites</string>
+    <string name="cardName">Card name</string>
+    <string name="artistName">Artist name</string>
+    <string name="deckName">Deck name</string>
+    <string name="createDeckName">Choose your deck name:</string>
+    <string name="deckClass">Select your class deck:</string>
+    <string name="typeHere">Type here…</string>
+    <string name="craftCost">Craft cost</string>
+    <string name="deleteUser">Delete user</string>
+    <string name="addCardsToDeck">Add Cards</string>
+    <string name="FinishDeck">Finish</string>
+    <string name="addCardToDeck">Add Card</string>
+    <string name="logOut">Log out from Application</string>
+    <string name="changeDataProfileButton">Change</string>
+    <string name="card_description">Image of a card</string>
+    <string name="editDeck">Edit</string>
+    <string name="deleteDeck">Delete</string>
+    <string name="createDeck">Create deck</string>
+    <string name="title_home">Home</string>
+    <string name="title_decks">Decks</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_profile">Profile</string>
+
+</resources>

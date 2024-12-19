@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CocheDefault
+comment1.params=nombre\ velocidad\ combustible
+comment1.target=CocheDefault(java.lang.String,\ Velocidad,\ Combustible)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ CocheDefault\ que\ extiende\ de\ la\ clase\ Coche,y\ llama\ al\ constructor\ de\ la\ clase\ CocheDefault\r\n\r\n\ @param\ nombre,\ nombre\ del\ coche\r\n\ @param\ velocidad,\ velocidad\ del\ coche\r\n\ @param\ combustible,\ combustible\ del\ coche\r\n
+comment2.params=destreza\ distancia\ complejidad
+comment2.target=java.lang.Double\ comprobarTiempoNecesarioTerminar(java.lang.Double,\ java.lang.Double,\ java.lang.Double)
+comment2.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ comprobar\ el\ tiempo\ necesario\ que\ se\ necesita\ para\ terminar\ la\ carrera\ y\ depende\ de\ la\r\n\ destreza\ del\ piloto,\ la\ distancia\ y\ la\ complejidad\ del\ circuito\r\n\r\n\ @param\ destreza,\ destreza\ del\ piloto\r\n\ @param\ distancia,\ distancia\ del\ circuito\r\n\ @param\ complejidad,\ complejidad\ del\ circuito\r\n\ @return\ tiempo\ necesario\ para\ terminar\ la\ carrera\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Este\ m\u00E9todo\ es\ el\ m\u00E9todo\ mostrar\ de\ la\ clase\ CocheDefault\ que\ se\ encarga\ de\ mostrar\ por\ pantalla\ los\ atributos\ de\ la\ clase\r\n\r\n\ @return\ s,\ devuelve\ el\ string\ que\ muestra\ toda\ la\ informaci\u00F3n\ de\ la\ clase\ CocheDefault\r\n
+numComments=4

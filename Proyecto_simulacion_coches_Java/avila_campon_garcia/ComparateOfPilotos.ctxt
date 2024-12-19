@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparateOfPilotos
+comment1.params=p1\ p2
+comment1.target=int\ compare(Piloto,\ Piloto)
+comment1.text=\r\n\ M\u00E9todo\ comparar\ de\ la\ clase\ abtracta\ Compararpilotos\ para\ comparar\ dos\ pilotos\r\n\r\n\ @param\ p1,\ primer\ piloto\ a\ comparar\r\n\ @param\ p2,\ segundo\ piloto\ a\ comparar\r\n\ @return\r\n
+numComments=2
